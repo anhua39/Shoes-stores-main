@@ -38,8 +38,8 @@
                     <div class="col-lg-6 col-md-5">
                         <div class="header__top__right">
                             <div class="header__top__links">
-                                <a href="#">Sign in</a>
-                                <a href="#">Contact</a>
+                                <a href="{{ Route('login') }}">Sign in</a>
+                                <a href="{{ Route('contact') }}">Contact</a>
                             </div>
                         </div>
                     </div>
@@ -56,28 +56,28 @@
                 <div class="col-lg-6 col-md-6">
                     <nav class="header__menu mobile-menu">
                         <ul>
-                            <li class="active"><a href="{{ Route('index') }}">New</a></li>
+                            <li class="#"><a href="{{ Route('index') }}">New</a></li>
                             <li><a href="{{ Route('shop') }}">Shop<i class="arrow_carrot-down"></i></a>
                                 <ul class="dropdown">
                                     <li><a href="{{ Route('shop') }}">Men</a></li>
                                     <li><a href="{{ Route('shop') }}">Women</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Brands<i class="arrow_carrot-down"></i></a>
+                            <li><a href="{{ Route('nike') }}">Brands<i class="arrow_carrot-down"></i></a>
                                 <ul class="dropdown">
-                                    <li><a href="./about.html">Nike</a></li>
-                                    <li><a href="./shop-details.html">Adidas</a></li>
-                                    <li><a href="./shopping-cart.html">Vans</a></li>
-                                    <li><a href="./checkout.html">Supreme</a></li>
-                                    <li><a href="./blog-details.html">Converse</a></li>
+                                    <li><a href="{{ Route('nike') }}">Nike</a></li>
+                                    <li><a href="{{ Route('addidas') }}">Adidas</a></li>
+                                    <li><a href="{{ Route('van') }}">Vans</a></li>
+                                    <li><a href="{{ Route('supreme') }}">Supreme</a></li>
+                                    <li><a href="{{ Route('converse') }}">Converse</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Pages<i class="arrow_carrot-down"></i></a>
+                            <li><a href="{{ Route('aboutUs') }}">Pages<i class="arrow_carrot-down"></i></a>
                                 <ul class="dropdown">
                                     <li><a href="{{ Route('aboutUs') }}">About Us</a></li>
-                                    <li><a href="./shop-details.html">Shop Details</a></li>
-                                    <li><a href="./shopping-cart.html">Shopping Cart</a></li>
-                                    <li><a href="./checkout.html">Check Out</a></li>
+                                    <!-- <li><a href="./shop-details.html">Shop Details</a></li> -->
+                                    <li><a href="{{ Route('shoppingCart') }}">Shopping Cart</a></li>
+                                    <li><a href="{{ Route('checkOut') }}">Check Out</a></li>
                                     <li><a href="{{ Route('blogDetail') }}">Blog Details</a></li>
                                 </ul>
                             </li>
