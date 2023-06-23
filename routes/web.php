@@ -22,6 +22,7 @@ use App\Http\Controllers\AuthController;
 Route::get('/', [frontendController::class, 'index'])->name('index');
 // Shop
 Route::get('/shop', [frontendController::class, 'shop'])->name('shop');
+Route::get('/shopDetail', [frontendController::class, 'shopDetail'])->name('shopDetail');
 //Brands
 Route::get('addidas', [frontendController::class, 'addidas'])->name('addidas');
 Route::get('converse', [frontendController::class, 'converse'])->name('converse');

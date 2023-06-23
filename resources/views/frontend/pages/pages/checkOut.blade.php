@@ -43,16 +43,16 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="checkout__input">
+                            <!-- <div class="checkout__input">
                                 <p>Country<span>*</span></p>
                                 <input type="text">
-                            </div>
+                            </div> -->
                             <div class="checkout__input">
                                 <p>Address<span>*</span></p>
                                 <input type="text" placeholder="Street Address" class="checkout__input__add">
                                 <input type="text" placeholder="Apartment, suite, unite ect (optinal)">
                             </div>
-                            <div class="checkout__input">
+                            <!-- <div class="checkout__input">
                                 <p>Town/City<span>*</span></p>
                                 <input type="text">
                             </div>
@@ -63,7 +63,7 @@
                             <div class="checkout__input">
                                 <p>Postcode / ZIP<span>*</span></p>
                                 <input type="text">
-                            </div>
+                            </div> -->
                             <div class="row">
                                 <div class="col-lg-6">
                                     <div class="checkout__input">
@@ -91,7 +91,7 @@
                                 <p>Account Password<span>*</span></p>
                                 <input type="text">
                             </div>
-                            <div class="checkout__input__checkbox">
+                            <!-- <div class="checkout__input__checkbox">
                                 <label for="diff-acc">
                                     Note about your order, e.g, special noe for delivery
                                     <input type="checkbox" id="diff-acc">
@@ -102,21 +102,19 @@
                                 <p>Order notes<span>*</span></p>
                                 <input type="text"
                                 placeholder="Notes about your order, e.g. special notes for delivery.">
-                            </div>
+                            </div> -->
                         </div>
                         <div class="col-lg-4 col-md-6">
                             <div class="checkout__order">
                                 <h4 class="order__title">Your order</h4>
                                 <div class="checkout__order__products">Product <span>Total</span></div>
                                 <ul class="checkout__total__products">
-                                    <li>01. Vanilla salted caramel <span>$ 300.0</span></li>
-                                    <li>02. German chocolate <span>$ 170.0</span></li>
-                                    <li>03. Sweet autumn <span>$ 170.0</span></li>
-                                    <li>04. Cluten free mini dozen <span>$ 110.0</span></li>
+                                    <li>01. Diagonal Textured Cap <span>$ 60.00</span></li>
+                                    <li>02. Van Carido <span>$ 25.00</span></li>
                                 </ul>
                                 <ul class="checkout__total__all">
-                                    <li>Subtotal <span>$750.99</span></li>
-                                    <li>Total <span>$750.99</span></li>
+                                    <li>Subtotal <span>$85.00</span></li>
+                                    <li>Total <span>$85.00</span></li>
                                 </ul>
                                 <div class="checkout__input__checkbox">
                                     <label for="acc-or">

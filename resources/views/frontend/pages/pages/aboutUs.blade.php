@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="about__pic">
-                        <img src="img/about/about-us.jpg" alt="">
+                        <img src="img/about/aboutUs2.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -65,19 +65,10 @@
                         <p>“Going out after work? Take your butane curling iron with you to the office, heat it up,
                             style your hair before you leave the office and you won’t have to make a trip back home.”
                         </p>
-                        <!-- <div class="testimonial__author">
-                            <div class="testimonial__author__pic">
-                                <img src="img/about/testimonial-author.jpg" alt="">
-                            </div>
-                            <div class="testimonial__author__text">
-                                <h5>Augusta Schultz</h5>
-                                <p>Fashion Design</p>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-6 p-0">
-                    <div class="testimonial__pic set-bg" data-setbg="img/about/testimonial-pic.jpg"></div>
+                    <div class="testimonial__pic set-bg" data-setbg="img/about/aboutUs1.jpg"></div>
                 </div>
             </div>
         </div>
@@ -85,7 +76,7 @@
     <!-- Testimonial Section End -->
 
     <!-- Counter Section Begin -->
-    <section class="counter spad">
+    <!-- <section class="counter spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
@@ -123,7 +114,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Counter Section End -->
 
     <!-- Team Section Begin -->
@@ -141,29 +132,36 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="team__item">
                         <img src="img/about/team-1.jpg" alt="">
-                        <h4>John Smith</h4>
-                        <span>Fashion Design</span>
+                        <h4>Hua Truong An</h4>
+                        <span>Web Design</span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="team__item">
                         <img src="img/about/team-2.jpg" alt="">
-                        <h4>Christine Wise</h4>
-                        <span>C.E.O</span>
+                        <h4>Le Ba Thanh</h4>
+                        <span>Web Develop</span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="team__item">
                         <img src="img/about/team-3.jpg" alt="">
-                        <h4>Sean Robbins</h4>
-                        <span>Manager</span>
+                        <h4>Nguyen Van Than</h4>
+                        <span>Web Develop</span>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-6 col-sm-6">
+                    <div class="team__item">
+                        <img src="img/about/team-4.jpg" alt="">
+                        <h4>Duong Binh Nha</h4>
+                        <span>Web Develop</span>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="team__item">
-                        <img src="img/about/team-4.jpg" alt="">
-                        <h4>Lucy Myers</h4>
-                        <span>Delivery</span>
+                        <img src="img/about/team-5.jpg" alt="">
+                        <h4>Bui Thach Yen Phi</h4>
+                        <span>Web Design</span>
                     </div>
                 </div>
             </div>
@@ -178,34 +176,34 @@
                 <div class="col-lg-12">
                     <div class="section-title">
                         <span>Partner</span>
-                        <h2>Happy Clients</h2>
+                        <h2>Happy Brands</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-1.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/adidas.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-2.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/nike.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-3.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/converse.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-4.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/supreme.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-5.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/vans.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-6.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/adidas1.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-7.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/vans1.jpg" alt=""></a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-4 col-6">
-                    <a href="#" class="client__item"><img src="img/clients/client-8.png" alt=""></a>
+                    <a href="#" class="client__item"><img src="img/clients/supreme1.jpg" alt=""></a>
                 </div>
             </div>
         </div>

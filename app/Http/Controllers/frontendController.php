@@ -16,6 +16,9 @@ class frontendController extends Controller
     public function shop(){
         return view("frontend.pages.shop.shop");
     }
+    public function shopDetail(){
+        return view("frontend.pages.shop.shopDetail");
+    }
 
     // Brands
     public function addidas(){
@@ -52,7 +55,7 @@ class frontendController extends Controller
         return view('frontend.pages.blog.blog');
     }
     
-     // Blog
+     // Contact
      public function contact(){
         return view('frontend.pages.contact.contact');
     }

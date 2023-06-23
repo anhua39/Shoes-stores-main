@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb__text">
-                        <h4>Shopping Cart</h4>
+                        <h4>Shopping</h4>
                         <div class="breadcrumb__links">
                             <a href="./index.html">Home</a>
                             <span>Shop</span>
@@ -220,7 +220,7 @@
                                 </div>
                                 <div class="product__item__text">
                                     <h6>Nike Air Huarache</h6>
-                                    <a href="#" class="add-cart">+ Add To Cart</a>
+                                    <a href="{{ Route('shopDetail') }}" class="add-cart">+ Add To Cart</a>
                                     <div class="rating">
                                         <i class="fa fa-star-o"></i>
                                         <i class="fa fa-star-o"></i>
@@ -245,7 +245,7 @@
                                 </div>
                                 <div class="product__item__text">
                                     <h6>Multi-pocket Chest Bag</h6>
-                                    <a href="#" class="add-cart">+ Add To Cart</a>
+                                    <a href="{{ Route('shopDetail') }}" class="add-cart">+ Add To Cart</a>
                                     <div class="rating">
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>

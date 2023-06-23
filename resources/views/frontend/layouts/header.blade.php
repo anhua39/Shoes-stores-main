@@ -56,7 +56,7 @@
                 <div class="col-lg-6 col-md-6">
                     <nav class="header__menu mobile-menu">
                         <ul>
-                            <li class="#"><a href="{{ Route('index') }}">New</a></li>
+                            <li class="#"><a href="{{ Route('index') }}">Home</a></li>
                             <li><a href="{{ Route('shop') }}">Shop<i class="arrow_carrot-down"></i></a>
                                 <ul class="dropdown">
                                     <li><a href="{{ Route('shop') }}">Men</a></li>
