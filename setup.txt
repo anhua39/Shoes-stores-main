@@ -1,0 +1,6 @@
+-các bước để set up
+-- dowloand file 
+-- tải .env
+-- composer install
+-- php artisan key:generate
+-- php artisan serve
